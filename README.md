@@ -4,6 +4,24 @@ Work in Progress-
 Eric Lucas
 
 
+Before going this route - do understand BBL is used to generate terraform template builds.. 
+It create resources
+Create output - bosh deployment vars
+creates a jumpbox
+creates a director
+generates the cloud config then uploads -
+
+Bbl runs on a local work 
+creates a bosh to the cloud
+then deploy concourse
+create pipeline
+*creates manifest
+that goes to cloudfoundry
+
+First -
+https://github.com/genevieve/pipelines
+
+
 
 Creating a Cloudfoundry deployment that is specific for Azure.
 This will include CF Cli and Bosh CLI - 
