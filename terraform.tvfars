@@ -1,0 +1,10 @@
+subscription_id       = "YOUR-SUBSCRIPTION-ID"
+tenant_id             = "YOUR-TENANT-ID"
+client_id             = "YOUR-CLIENT-ID"
+client_secret         = "YOUR-CLIENT-SECRET"
+
+env_name              = "YOUR-ENVIRONMENT-NAME"
+location              = "YOUR-AZURE-LOCATION"
+ops_manager_image_uri = "YOUR-OPS-MAN-IMAGE-URI"
+dns_suffix            = "YOUR-DNS-SUFFIX"
+vm_admin_username     = "YOUR-ADMIN-USERNAME"
