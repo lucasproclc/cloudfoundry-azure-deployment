@@ -1,8 +1,9 @@
 # cloudfoundry-azure-deployment
 
-WIP
+Work in Progress- 
+Eric Lucas
 
-https://docs.pivotal.io/pivotalcf/2-1/customizing/azure-deploy-terraform.html#download
+
 
 Creating a Cloudfoundry deployment that is specific for Azure.
 This will include CF Cli and Bosh CLI - 
@@ -358,5 +359,6 @@ Ops manager complete
 
 After you complete this procedure, follow the instructions in the Deploying PAS on Azure Using Terraform topic
 
+https://docs.pivotal.io/pivotalcf/2-1/customizing/azure-deploy-terraform.html#download
 
 
